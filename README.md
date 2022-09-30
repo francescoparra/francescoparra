@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @francescoparra
-- I'm currently a Full Stack Developer Intern in Crisis24 (Germany).
+- I'm currently a Software Developer in Crisis24 (Germany).
 - I develop in Java and Ruby but am always open to new programming languages to use!
 - Speaking Italian and English.
 - Here is my [Linkedin](https://www.linkedin.com/in/francescoparra/).
