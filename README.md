@@ -1,5 +1,29 @@
-- 👋 Hi, I’m @francescoparra
-- I'm currently a Software Developer in Crisis24 (Germany).
-- I develop in Java and Ruby but am always open to new programming languages to use!
-- Speaking Italian and English.
-- Here is my [Linkedin](https://www.linkedin.com/in/francescoparra/).
+### 👋 Hi, I’m Francesco
+
+**Software Developer at Crisis24** (remote from Italy).  
+I enjoy building clean, reliable and user-focused applications, working across backend, frontend and DevOps when needed.
+
+---
+
+### 🧰 Tech Stack  
+#### Main Languages & Frameworks
+- **Ruby**, **Ruby on Rails**
+- **Python**
+- **Java**, **Java EE**
+- **JavaScript**, **Ember.js**, **ReactJS**
+
+#### Databases
+- **PostgreSQL**, **MySQL**, **Oracle (PL/SQL)**
+
+#### Tools & DevOps
+- **Docker**, **Kubernetes**, **CI/CD**
+- **Ansible**, **Shell scripting**
+- **Git**, **SVN**
+
+---
+
+### 🌐 Find Me  
+- LinkedIn: **[linkedin.com/in/francescoparra](https://www.linkedin.com/in/francescoparra/)**  
+- GitHub: **github.com/francescoparra**
+
+Thanks for visiting! 🚀
